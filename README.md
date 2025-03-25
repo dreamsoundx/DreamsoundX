@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DreamsoundX&theme=react)
 
 ___
-## [travel](https://dreamsoundx.github.io/travel-page/)
+## [travel-page](https://dreamsoundx.github.io/travel-page/)
 [<img src="https://dreamsoundx.github.io/travel-page/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
 >Practicing skills: CSS 
 
