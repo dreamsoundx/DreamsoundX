@@ -15,4 +15,4 @@ ___
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 - *SASS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
-- https://dreamsoundx.github.io/travel/
+- https://dreamsoundx.github.io/travel-page/
