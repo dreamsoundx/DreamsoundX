@@ -5,3 +5,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DreamsoundX&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DreamsoundX&theme=react)
+
+___
+## [travel](https://dreamsoundx.github.io/travel/)
+<!--[<img src="https://peccopa.github.io/html-css-ru/simple-page/simple-page.jpg">](https://peccopa.github.io/html-css-ru/simple-page/) -->
+>Practicing skills: CSS 
+
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+- *SASS, BEM, Figma(Pixso), PixelPerfect*
+- https://dreamsoundx.github.io/travel/
