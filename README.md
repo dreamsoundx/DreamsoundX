@@ -21,7 +21,7 @@ ___
 ___
 ## [travel-page](https://dreamsoundx.github.io/travel-page/)
 [<img src="https://dreamsoundx.github.io/travel-page/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
->Practicing skills: CSS 
+>practicing skills: CSS 
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
