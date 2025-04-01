@@ -7,6 +7,17 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DreamsoundX&theme=react)
 
 ___
+## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
+[<img src="https://dreamsoundx.github.io/john-portfolio/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
+>Practicing skills: CSS 
+
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
+- *SCSS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
+- https://dreamsoundx.github.io/john-portfolio/
+
+___
 ## [travel-page](https://dreamsoundx.github.io/travel-page/)
 [<img src="https://dreamsoundx.github.io/travel-page/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
 >Practicing skills: CSS 
