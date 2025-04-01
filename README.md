@@ -9,7 +9,7 @@
 ___
 ## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
 [<img src="https://dreamsoundx.github.io/john-portfolio/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
->responsive design, burger menu, multi-page
+>responsive design, burger menu, multi-page, view all (in progress)
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
