@@ -9,13 +9,13 @@
 ___
 ## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
 [<img src="https://dreamsoundx.github.io/john-portfolio/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
->Practicing skills: CSS 
+>responsive design, burger menu, multi-page
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-- *SCSS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
+- *SCSS, BEM, Figma(Pixco), PixelPerfect*
 - https://dreamsoundx.github.io/john-portfolio/
 
 ___
