@@ -15,8 +15,8 @@ ___
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-- *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
 - https://dreamsoundx.github.io/john-portfolio/
+- *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
 
 ___
 ## [travel-page](https://dreamsoundx.github.io/travel-page/)
