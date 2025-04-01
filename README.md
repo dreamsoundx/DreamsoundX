@@ -26,5 +26,5 @@ ___
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
-- *SCSS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
 - https://dreamsoundx.github.io/travel-page/
+- *SCSS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
