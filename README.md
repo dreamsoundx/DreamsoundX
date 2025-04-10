@@ -9,7 +9,7 @@
 ___
 ## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
 [<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
->responsive design, burger menu, multi-page, view all (in progress)
+>responsive design, burger menu, favicon, multi-page, view all (in progress)
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
@@ -21,13 +21,13 @@ ___
 ___
 ## [the-loop-shop](https://dreamsoundx.github.io/the-loop-shop/)
 [<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/the-loop-shop.jpeg">](https://dreamsoundx.github.io/the-loop-shop/)
->responsive design, burger menu (in progress)
+>responsive design, burger menu (in progress), favicon
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-- https://dreamsoundx.github.io/john-portfolio/
+- https://dreamsoundx.github.io/the-loop-shop/
 - *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
 
 ___
