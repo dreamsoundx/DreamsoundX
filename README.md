@@ -19,6 +19,18 @@ ___
 - *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
 
 ___
+## [the-loop-shop](https://dreamsoundx.github.io/the-loop-shop/)
+[<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/the-loop-shop.jpeg">](https://dreamsoundx.github.io/the-loop-shop/)
+>responsive design, burger menu (in progress)
+
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
+- https://dreamsoundx.github.io/john-portfolio/
+- *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
+
+___
 ## [travel-page](https://dreamsoundx.github.io/travel-page/)
 [<img src="https://dreamsoundx.github.io/travel-page/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
 >practicing skills: CSS 
