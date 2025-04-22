@@ -11,8 +11,8 @@ ___
 [<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
 >responsive design, burger menu, favicon, view more, multi-page
 
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
 - https://dreamsoundx.github.io/john-portfolio/
@@ -23,8 +23,8 @@ ___
 [<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/the-loop-shop.jpeg">](https://dreamsoundx.github.io/the-loop-shop/)
 >responsive design, burger menu (in progress), favicon
 
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
 - https://dreamsoundx.github.io/the-loop-shop/
@@ -35,8 +35,8 @@ ___
 [<img src="https://dreamsoundx.github.io/travel-page/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
 >practicing skills: CSS 
 
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 - https://dreamsoundx.github.io/travel-page/
 - *SCSS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
