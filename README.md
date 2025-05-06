@@ -15,7 +15,7 @@ ___
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-- https://dreamsoundx.github.io/john-portfolio/
+- https://dreamsoundx.github.io/john-portfolio
 - *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
 
 ___
@@ -27,7 +27,7 @@ ___
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-- https://dreamsoundx.github.io/the-loop-shop/
+- https://dreamsoundx.github.io/the-loop-shop
 - *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
 
 ___
@@ -38,5 +38,5 @@ ___
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
-- https://dreamsoundx.github.io/travel-page/
+- https://dreamsoundx.github.io/travel-page
 - *SCSS, BEM, Adobe Photoshop, Zeplin, PixelPerfect*
