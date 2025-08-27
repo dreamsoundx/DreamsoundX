@@ -9,7 +9,7 @@
 ___
 ## [gericht-restaurant](https://dreamsoundx.github.io/gericht-restaurant/)
 [<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/previews/gericht-restaurant.jpg">](https://dreamsoundx.github.io/gericht-restaurant)
->responsive design, burger menu, dynamic adaptive, fullpage, slider(swiper), parallax, form, simplebar, popup, video, gallery, lazyload
+>responsive design, burger menu, dynamic adaptive, fullpage, slider(swiper), parallax, form, datepicker, simplebar, popup, video, gallery, lazyload
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
