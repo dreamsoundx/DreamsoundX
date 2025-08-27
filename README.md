@@ -7,6 +7,18 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DreamsoundX&theme=react)
 
 ___
+## [gericht-restaurant](https://dreamsoundx.github.io/gericht-restaurant/)
+[<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/john-portfolio.jpeg">](https://dreamsoundx.github.io/gericht-restaurant)
+>responsive design, burger menu, dynamic adaptive, subgrid, video, slider(swiper), fullpage block, parallax, form 
+
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![Sass Badge](https://img.shields.io/badge/-SCSS-C69?style=flat)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
+- https://dreamsoundx.github.io/gericht-restaurant
+- *Gulp/Webpack, SCSS, BEM, Figma(Pixco), PixelPerfect*
+
+___
 ## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
 [<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
 >responsive design, burger menu, favicon, view more, multi-page
