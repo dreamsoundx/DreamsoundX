@@ -8,7 +8,7 @@
 
 ___
 ## [gericht-restaurant](https://dreamsoundx.github.io/gericht-restaurant/)
-[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/john-portfolio.jpg">](https://dreamsoundx.github.io/gericht-restaurant)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/gericht-restaurant.jpg">](https://dreamsoundx.github.io/gericht-restaurant)
 >responsive design, burger menu, dynamic adaptive, fullpage block, slider(swiper), parallax, form, popup, video  
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
