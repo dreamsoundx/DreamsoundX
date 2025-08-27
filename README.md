@@ -20,7 +20,7 @@ ___
 
 ___
 ## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
-[<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/john-portfolio.jpeg">](https://dreamsoundx.github.io/john-portfolio/)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/john-portfolio.jpg">](https://dreamsoundx.github.io/john-portfolio/)
 >responsive design, burger menu, favicon, view more, multi-page
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
