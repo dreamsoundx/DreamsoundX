@@ -8,8 +8,8 @@
 
 ___
 ## [gericht-restaurant](https://dreamsoundx.github.io/gericht-restaurant/)
-[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/gericht-restaurant.jpg">](https://dreamsoundx.github.io/gericht-restaurant)
->responsive design, burger menu, dynamic adaptive, fullpage block, slider(swiper), parallax, form, popup, video  
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/previews/gericht-restaurant.jpg">](https://dreamsoundx.github.io/gericht-restaurant)
+>responsive design, burger menu, dynamic adaptive, fullpage, slider(swiper), parallax, form, simplebar, popup, video, gallery, lazyload
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
@@ -20,7 +20,7 @@ ___
 
 ___
 ## [john-portfolio](https://dreamsoundx.github.io/john-portfolio/)
-[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/john-portfolio.jpg">](https://dreamsoundx.github.io/john-portfolio/)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/previews/john-portfolio.jpg">](https://dreamsoundx.github.io/john-portfolio/)
 >responsive design, burger menu, favicon, view more, multi-page
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
@@ -32,7 +32,7 @@ ___
 
 ___
 ## [the-loop-shop](https://dreamsoundx.github.io/the-loop-shop/)
-[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/the-loop-shop.jpg">](https://dreamsoundx.github.io/the-loop-shop/)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/previews/the-loop-shop.jpg">](https://dreamsoundx.github.io/the-loop-shop/)
 >responsive design, burger menu (in progress), favicon
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
@@ -44,7 +44,7 @@ ___
 
 ___
 ## [travel-page](https://dreamsoundx.github.io/travel-page/)
-[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/previews/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
 >practicing skills: CSS 
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
