@@ -32,7 +32,7 @@ ___
 
 ___
 ## [the-loop-shop](https://dreamsoundx.github.io/the-loop-shop/)
-[<img src="https://raw.githubusercontent.com/dreamsoundx/DreamsoundX/refs/heads/main/the-loop-shop.jpeg">](https://dreamsoundx.github.io/the-loop-shop/)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/the-loop-shop.jpg">](https://dreamsoundx.github.io/the-loop-shop/)
 >responsive design, burger menu (in progress), favicon
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
@@ -44,7 +44,7 @@ ___
 
 ___
 ## [travel-page](https://dreamsoundx.github.io/travel-page/)
-[<img src="https://dreamsoundx.github.io/travel-page/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
+[<img src="https://dreamsoundx.github.io/dreamsoundx-cv/files/travel-page.jpg">](https://dreamsoundx.github.io/travel-page/)
 >practicing skills: CSS 
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
